@@ -12,7 +12,7 @@ struct Libro{
 //Catalogo
 //struct Libro catalogo [33];
 
-struct Libro objLibro[]={{8.5,1.18,"El avestrus", "Arial"},
+struct Libro objLibro[]={{8.5,1.18,"El avestruz", "Arial"},
                          {8.5,0.74,"La niña", "Tahoma"},
                          {6.5,1.78,"El cuento", "Calibri"},
                          {5.5, 1.86,"Anécdota de un día", "Tahoma Black"},
